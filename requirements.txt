@@ -27,7 +27,7 @@ numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.17.0
 packaging==25.0
-pandas==2.2.2
+pandas==2.2.3
 protobuf==5.29.5
 pydantic==2.11.7
 pydantic_core==2.33.2
